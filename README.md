@@ -32,6 +32,7 @@
 ├── pvproject1_2.py        # 1. 태양광 시뮬레이션 환경 구축 및 AI 학습용 시계열 데이터 생성기 (pvlib)  
 ├── pvprojectML1_0.py      # 2. PyTorch 기반 2-Layer LSTM 모델 학습, 데이터 전처리 및 평가 루프  
 ├── pvproject_viz.py       # 3. P-V 곡선 변화 및 P&O 추종 실패(LMPP 갇힘) 애니메이션 시각화  
+├── pvproject_test.py      # 4. LSTM 모델 작동 테스트 시각화  
 ├── dataset/               # 생성된 npz 형태의 시계열 훈련/검증 데이터 (예: V, I, P, dP/dV, Day, Hour)  
 ├── models/                # 학습 완료된 LSTM 가중치 (.pth)  
 └── README.md              # 프로젝트 설명 (현재 문서)  
