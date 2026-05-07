@@ -63,7 +63,7 @@ python pvproject_viz.py
 
 ## 🎓 Publication / Citation
 본 연구 내용은 대한전기학회(KIEE) 하계학술대회에 제출되었습니다. 
-> *"태양광 발전 시스템에서 부분 음영 조건(PSC) 발생 시 기존 P&O 알고리즘이 다중 피크로 인해 국부 최대 전력점(LMPP)에 정체되는 한계를 극복하고자, 시계열 전기적 데이터를 활용한 센서리스(Sensorless) 기반의 LSTM MPPT 트리거 모델을 제안하였다."*
+> *"부분 음영 조건(PSC)하 태양광 MPPT를 위한 LSTM 기반 트리거 모델 연구"*
 
 ## 🧑‍💻 Author
 - **최진환** (광운대학교)
